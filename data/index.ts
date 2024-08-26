@@ -70,20 +70,7 @@ export const gridItems = [
 ];
 
 export const projects = [
-  {
-    id: 1,
-    title: "ECOMMERCE WEBSITE",
-    des: " A fully responsive E-commerce website with features such as product listing, shopping cart under different categories, and integrated with PayPal.",
-    img: "/ecommerce-app.png",
-    iconLists: [
-      "/re.svg",
-      "/tail.svg",
-      "/nodejs.png",
-      "/express.png",
-      "/mongo.png",
-    ],
-    link: "https://github.com/natiTED/MERN-NAATY-STORE",
-  },
+
   {
     id: 2,
     title: "MOVIES APP",
@@ -97,6 +84,20 @@ export const projects = [
       "/mongo.png",
     ],
     link: "https://github.com/natiTED/MERN-NAATY-MOVIES",
+  },
+    {
+    id: 1,
+    title: "ECOMMERCE WEBSITE",
+    des: " A fully responsive E-commerce website with features such as product listing, shopping cart under different categories, and integrated with PayPal.",
+    img: "/ecommerce-app.png",
+    iconLists: [
+      "/re.svg",
+      "/tail.svg",
+      "/nodejs.png",
+      "/express.png",
+      "/mongo.png",
+    ],
+    link: "https://github.com/natiTED/MERN-NAATY-STORE",
   },
   {
     id: 3,
