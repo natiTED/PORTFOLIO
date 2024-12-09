@@ -18,11 +18,11 @@ const Footer = () => {
           achieve your goals.
         </p>
         <a
-          href="https://drive.google.com/file/d/172d440-EwN1ay0oFUIs5jsfsc_9B9pPL/view?usp=sharing"
+          href="/"
           target="_blank"
         >
           <MagicButton
-            title="want to know more about me?"
+            title="want to know more about me? natnaeltewodros9@gmail.com"
             icon={<FaLocationArrow />}
             position="right"
           />
