@@ -38,7 +38,7 @@ const Hero = () => {
             words="Developing full-stack websites with Seamless User Experiences"
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Naaty, a full-stack Developer based in Ethiopia.
+            Hi! I&apos;m Naaty, a full-stack Developer and Cloud Architect based in Ethiopia.
           </p>
           <a href="#about">
             <MagicButton
