@@ -124,7 +124,7 @@ export const projects = [
       "/express.png",
       "/mongo.png",
     ],
-    link: "https://github.com/natiTED/SPAREWORK",
+    link: "https://github.com/natiTED/REMOTELY",
   },
 ];
 
