@@ -18,7 +18,7 @@ const Footer = () => {
           achieve your goals.
         </p>
         <a
-          href="/"
+          href=""
           target="_blank"
         >
           <MagicButton
