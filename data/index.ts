@@ -70,7 +70,20 @@ export const gridItems = [
 ];
 
 export const projects = [
-
+  {
+    id: 1,
+    title: "ECOMMERCE WEBSITE",
+    des: " A fully responsive E-commerce website with features such as product listing, shopping cart under different categories, and integrated with PayPal.",
+    img: "/ecommerce-app.png",
+    iconLists: [
+      "/re.svg",
+      "/tail.svg",
+      "/nodejs.png",
+      "/express.png",
+      "/mongo.png",
+    ],
+    link: "https://github.com/natiTED/MERN-NAATY-STORE",
+  },
   {
     id: 2,
     title: "MOVIES APP",
@@ -85,7 +98,7 @@ export const projects = [
     ],
     link: "https://github.com/natiTED/MERN-NAATY-MOVIES",
   },
-    {
+  {
     id: 1,
     title: "ECOMMERCE WEBSITE",
     des: " A fully responsive E-commerce website with features such as product listing, shopping cart under different categories, and integrated with PayPal.",
@@ -103,7 +116,7 @@ export const projects = [
     id: 3,
     title: "BLOG APP",
     des: "where different tech enthusiasts can upload specific research and new information on emerging technologies for people interested in it.",
-    img: "/blog-app.png",
+    img: "/blogg.png",
     iconLists: [
       "/re.svg",
       "/tail.svg",
@@ -113,20 +126,20 @@ export const projects = [
     ],
     link: "https://github.com/natiTED/MERN-BLOG-APP",
   },
-  // {
-  //   id: 4,
-  //   title: "Animated Apple Iphone 3D Website",
-  //   des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-  //   img: "/p4.svg",
-  //   iconLists: [
-  //     "/re.svg",
-  //     "/tail.svg",
-  //     "/nodejs.png",
-  //     "/express.png",
-  //     "/mongo.png",
-  //   ],
-  //   link: "https://github.com/adrianhajdin/iphone",
-  // },
+  {
+    id: 4,
+    title: "REMOTELY APP",
+    des: "a 'fiverr' like website where freelancers dreams becomes a reality.",
+    img: "/remotely.png",
+    iconLists: [
+      "/re.svg",
+      "/tail.svg",
+      "/nodejs.png",
+      "/express.png",
+      "/mongo.png",
+    ],
+    link: "https://github.com/natiTED/SPAREWORK",
+  },
 ];
 
 export const testimonials = [
