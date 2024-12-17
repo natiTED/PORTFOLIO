@@ -205,7 +205,7 @@ export const workExperience = [
   {
     id: 2,
     title: "Freelance Website Project",
-    desc: "Designed and developed sample website app for the company I was accepted as an intern in and showcase to the CEO.",
+    desc: "Designed and developed a website app for a startup company I was accepted as an intern after graduation.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
