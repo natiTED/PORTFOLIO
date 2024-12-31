@@ -198,7 +198,7 @@ export const workExperience = [
   {
     id: 1,
     title: "Frontend Engineer Intern",
-    desc: "Worked in one of the biggest and pioneer software companies in Ethiopia, CNET SOFTWARE TECHNOLOGIES. I spent 3 months in the research and projects department,",
+    desc: "Worked in one of the biggest and pioneer software companies in Ethiopia, CNET SOFTWARE TECHNOLOGIES. I spent 3 months in the projects department,",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
