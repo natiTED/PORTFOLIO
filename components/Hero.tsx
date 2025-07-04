@@ -35,10 +35,10 @@ const Hero = () => {
           </h2>
           <TextGenerateEffect
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
-            words="Developing full-stack websites with Seamless User Experiences"
+            words="From Idea to Solution Matrix: Full-Stack Development, Powered by Strong Backends Meets Cloud Innovation"
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Naaty, a full-stack Developer and Cloud Architect based in Ethiopia.
+            Hi! I&apos;m Natnael, a Fullstack Developer specialised in Backend Development, based in Ethiopia.
           </p>
           <a href="#about">
             <MagicButton
