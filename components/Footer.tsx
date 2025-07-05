@@ -17,8 +17,9 @@ const Footer = () => {
           Reach out to me today and let&apos;s discuss how I can help you
           achieve your goals.
         </p>
+          <a href="https://t.me/Z_profilename">
           <MagicButton
-            title="want to know more about me? natnaeltewodros9@gmail.com"
+            title="Let's get in touch"
             icon={<FaLocationArrow />}
             position="right"
           />
