@@ -118,7 +118,7 @@ export const projects = [
       "/express.png",
       "/mongo.png",
     ],
-    link: "https://github.com/natiTED/REMOTELY",
+    link: "https://github.com/natiTED",
   },
 
   {
