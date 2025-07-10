@@ -34,7 +34,7 @@ const Hero = () => {
             WELCOME TO NAATY&apos;S
           </h2>
           <TextGenerateEffect
-            className="text-center text-[40px] md:text-5xl lg:text-6xl"
+            className="text-center text-[35px] md:text-5xl lg:text-6xl"
             words="From Idea to Solution Matrix: Full-Stack Development, Powered by Strong Backends Meets Cloud Innovation"
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
