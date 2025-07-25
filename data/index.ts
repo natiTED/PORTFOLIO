@@ -49,7 +49,7 @@ export const gridItems = [
   {
     id: 5,
     title:
-      "Currently building a rhobust, scalable, and secure API for a mobile and web application",
+      "Currently building a robust, scalable, and secure API for a mobile and web application",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -109,7 +109,7 @@ export const projects = [
   {
     id: 4,
     title: "REMOTELY APP",
-    des: "a 'fiverr' like website where freelancers dreams becomes a reality.",
+    des: "A 'fiverr' like website where freelancers dreams becomes a reality.",
     img: "/remotely.png",
     iconLists: [
       "/re.svg",
